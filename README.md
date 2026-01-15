@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yang Zhuo (杨卓) 👋</h1>
+<h1 align="center">Hi there, I'm SealWax 👋</h1>
 <p align="center">
   Software Engineering Undergraduate @ <b>Beihang University (BUAA)</b>
 </p>
@@ -19,8 +19,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=24373054&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24373054&layout=compact&theme=radical&hide=html,css" width="45%" />
+  <img src="https://stats.programcx.cn/api?username=24373054&show_icons=true&theme=radical" width="45%" />
+  <img src="https://stats.programcx.cn/api/top-langs/?username=24373054&layout=compact&theme=radical&hide=html,css" width="45%" />
 </p>
 
 <br>
