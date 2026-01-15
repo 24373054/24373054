@@ -73,7 +73,11 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24373054&theme=radical" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=24373054&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=24373054&theme=default" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=24373054&theme=default" />
+  </picture>
 </p>
 
 <!--
