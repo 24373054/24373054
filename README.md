@@ -18,10 +18,24 @@
 
 <br>
 
-<p align="center">
-  <img src="https://stats.programcx.cn/api?username=24373054&show_icons=true&theme=radical" width="45%" />
-  <img src="https://stats.programcx.cn/api/top-langs/?username=24373054&layout=compact&theme=radical&hide=html,css" width="45%" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api?username=24373054&show_icons=true&theme=radical" />
+        <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api?username=24373054&show_icons=true&theme=default" />
+        <img src="https://stats.programcx.cn/api?username=24373054&show_icons=true&theme=default" />
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api/top-langs/?username=24373054&layout=compact&theme=radical&hide=html,css" />
+        <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api/top-langs/?username=24373054&layout=compact&theme=default&hide=html,css" />
+        <img src="https://stats.programcx.cn/api/top-langs/?username=24373054&layout=compact&theme=default&hide=html,css" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <br>
 
