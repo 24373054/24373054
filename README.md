@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://yz.matrixlab.work"><img src="https://img.shields.io/badge/NOTES-yz.matrixlab.work-161616?style=flat-square&labelColor=161616&color=161616" alt="Notes"></a>
-  <a href="https://matrixlab.work"><img src="https://img.shields.io/badge/RESEARCH-MatrixLab-161616?style=flat-square&labelColor=161616&color=161616" alt="MatrixLab"></a>
-  <a href="https://develop.matrixlab.work"><img src="https://img.shields.io/badge/BUILD-KeEntropy-161616?style=flat-square&labelColor=161616&color=161616" alt="KeEntropy"></a>
-  <a href="mailto:24373054@buaa.edu.cn"><img src="https://img.shields.io/badge/CONTACT-24373054%40buaa.edu.cn-161616?style=flat-square&labelColor=161616&color=161616" alt="Email"></a>
+  <a href="https://yz.matrixlab.work"><img src="https://img.shields.io/badge/Notes-yz.matrixlab.work-5B5BD6?style=flat-square&logo=readthedocs&logoColor=white" alt="Notes"></a>
+  <a href="https://matrixlab.work"><img src="https://img.shields.io/badge/Research-MatrixLab-2563EB?style=flat-square&logo=academia&logoColor=white" alt="MatrixLab"></a>
+  <a href="https://develop.matrixlab.work"><img src="https://img.shields.io/badge/Build-KeEntropy-0F766E?style=flat-square&logo=proton&logoColor=white" alt="KeEntropy"></a>
+  <a href="mailto:24373054@buaa.edu.cn"><img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
