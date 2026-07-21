@@ -1,15 +1,15 @@
-<p align="center"><img src="./assets/hero/01.jpg" width="16.66%" alt="SealWax — Yang Zhuo, MatrixLab and KeEntropy"><img src="./assets/hero/02.jpg" width="16.66%" alt=""><img src="./assets/hero/03.jpg" width="16.66%" alt=""><img src="./assets/hero/04.jpg" width="16.66%" alt=""><img src="./assets/hero/05.jpg" width="16.66%" alt=""><img src="./assets/hero/06.jpg" width="16.66%" alt=""></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/hero-dark.svg">
+    <img src="./assets/profile/hero-light.svg" width="100%" alt="SealWax — Yang Zhuo, MatrixLab and KeEntropy">
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://yz.matrixlab.work"><img src="https://img.shields.io/badge/NOTES-yz.matrixlab.work-161616?style=flat-square&labelColor=161616&color=161616" alt="Notes"></a>
   <a href="https://matrixlab.work"><img src="https://img.shields.io/badge/RESEARCH-MatrixLab-161616?style=flat-square&labelColor=161616&color=161616" alt="MatrixLab"></a>
   <a href="https://develop.matrixlab.work"><img src="https://img.shields.io/badge/BUILD-KeEntropy-161616?style=flat-square&labelColor=161616&color=161616" alt="KeEntropy"></a>
   <a href="mailto:24373054@buaa.edu.cn"><img src="https://img.shields.io/badge/CONTACT-24373054%40buaa.edu.cn-161616?style=flat-square&labelColor=161616&color=161616" alt="Email"></a>
-</p>
-
-<p align="center">
-  <strong>Yang Zhuo / SealWax</strong><br>
-  <sub>Software Engineering at Beihang University · MatrixLab · KeEntropy</sub>
 </p>
 
 <p align="center">
@@ -68,43 +68,24 @@
 
 ## Repository signals
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=24373054&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=8aa4c5">
-        <img src="https://github-readme-stats.vercel.app/api?username=24373054&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=9b2c20" alt="GitHub statistics">
-      </picture>
-    </td>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=24373054&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24373054&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e" alt="Language distribution">
-      </picture>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=24373054&bg_color=00000000&color=8b949e&line=8aa4c5&point=e6edf3&area=true&area_color=24364a&hide_border=true&custom_title=Contribution%20rhythm">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=24373054&bg_color=00000000&color=59636e&line=9b2c20&point=1f2328&area=true&area_color=eadbd3&hide_border=true&custom_title=Contribution%20rhythm" alt="Contribution activity graph">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/portfolio-dark.svg">
+    <img src="./assets/profile/portfolio-light.svg" width="100%" alt="Repository portfolio signals">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/24373054/TLAH-Studio">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=24373054&repo=TLAH-Studio&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=8aa4c5">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=24373054&repo=TLAH-Studio&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=9b2c20" alt="TLAH Studio repository card">
-    </picture>
-  </a>
-  <a href="https://github.com/24373054/00SWIFT">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=24373054&repo=00SWIFT&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=8aa4c5">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=24373054&repo=00SWIFT&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=9b2c20" alt="00SWIFT repository card">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/flagships-dark.svg">
+    <img src="./assets/profile/flagships-light.svg" width="100%" alt="Flagship repository snapshot">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/24373054/TLAH-Studio"><strong>Open TLAH Studio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/24373054/00SWIFT"><strong>Open 00SWIFT</strong></a>
 </p>
 
 ## Repository map
