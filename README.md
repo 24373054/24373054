@@ -1,64 +1,63 @@
+<p align="center"><img src="./assets/hero/01.jpg" width="16.66%" alt="SealWax — Yang Zhuo, MatrixLab and KeEntropy"><img src="./assets/hero/02.jpg" width="16.66%" alt=""><img src="./assets/hero/03.jpg" width="16.66%" alt=""><img src="./assets/hero/04.jpg" width="16.66%" alt=""><img src="./assets/hero/05.jpg" width="16.66%" alt=""><img src="./assets/hero/06.jpg" width="16.66%" alt=""></p>
+
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="SealWax — AI agents, digital-asset security, and payment infrastructure">
+  <a href="https://yz.matrixlab.work"><img src="https://img.shields.io/badge/NOTES-yz.matrixlab.work-161616?style=flat-square&labelColor=161616&color=161616" alt="Notes"></a>
+  <a href="https://matrixlab.work"><img src="https://img.shields.io/badge/RESEARCH-MatrixLab-161616?style=flat-square&labelColor=161616&color=161616" alt="MatrixLab"></a>
+  <a href="https://develop.matrixlab.work"><img src="https://img.shields.io/badge/BUILD-KeEntropy-161616?style=flat-square&labelColor=161616&color=161616" alt="KeEntropy"></a>
+  <a href="mailto:24373054@buaa.edu.cn"><img src="https://img.shields.io/badge/CONTACT-24373054%40buaa.edu.cn-161616?style=flat-square&labelColor=161616&color=161616" alt="Email"></a>
 </p>
 
 <p align="center">
-  <a href="https://yz.matrixlab.work"><img src="https://img.shields.io/badge/Notes-yz.matrixlab.work-0B111A?style=flat-square&logo=readthedocs&logoColor=7DE7FF" alt="Technical notes"></a>
-  <a href="https://develop.matrixlab.work"><img src="https://img.shields.io/badge/KeEntropy-Product%20Lab-0B111A?style=flat-square&logo=proton&logoColor=829EFF" alt="KeEntropy"></a>
-  <a href="https://matrixlab.work"><img src="https://img.shields.io/badge/MatrixLab-Research-0B111A?style=flat-square&logo=academia&logoColor=B779FF" alt="MatrixLab"></a>
-  <a href="mailto:24373054@buaa.edu.cn"><img src="https://img.shields.io/badge/Email-24373054%40buaa.edu.cn-0B111A?style=flat-square&logo=gmail&logoColor=E9EEF7" alt="Email"></a>
+  <strong>Yang Zhuo / SealWax</strong><br>
+  <sub>Software Engineering at Beihang University · MatrixLab · KeEntropy</sub>
 </p>
 
 <p align="center">
-  <strong>Software Engineering undergraduate at Beihang University · Researcher at MatrixLab · Builder at KeEntropy</strong><br>
-  I design local-first agent runtimes, digital-asset security systems, and standards-driven payment infrastructure.
+  I build systems where models, tools, ledgers, and trust boundaries meet.
 </p>
 
 ---
 
-## System map
+## Current work
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>01 · Agent systems</h3>
-      <p>Observable, controllable runtimes that connect models with workspaces, tools, MCP servers, memory, approvals, and durable execution history.</p>
-      <p><code>runtime</code> <code>tool safety</code> <code>local-first</code> <code>MCP</code></p>
+      <strong>Agent systems</strong><br><br>
+      Native runtimes, tool orchestration, workspaces, approvals, MCP, memory, debugging, and durable execution records.
     </td>
     <td width="33%" valign="top">
-      <h3>02 · Digital trust</h3>
-      <p>Pre-execution risk gating, cross-chain fund graphs, KYT/KYA research, wallet security, and explainable evidence for digital-asset investigations.</p>
-      <p><code>risk oracle</code> <code>graph intelligence</code> <code>Web3 security</code></p>
+      <strong>Digital trust</strong><br><br>
+      Pre-execution risk gating, cross-chain fund graphs, wallet security, KYT/KYA research, and explainable investigation interfaces.
     </td>
     <td width="33%" valign="top">
-      <h3>03 · Payment infrastructure</h3>
-      <p>Standards conformance and settlement research across ISO 20022, CBPR+, CIPS, e-CNY, multi-CBDC, RTGS/DNS, and atomic PvP workflows.</p>
-      <p><code>ISO 20022</code> <code>e-CNY</code> <code>ledger invariants</code></p>
+      <strong>Settlement infrastructure</strong><br><br>
+      ISO 20022, CIPS, e-CNY, multi-CBDC, payment lifecycles, ledger invariants, RTGS/DNS, and atomic PvP research.
     </td>
   </tr>
 </table>
 
-## Flagship systems
+## Selected systems
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/24373054/TLAH-Studio">TLAH Studio</a></h3>
-      <p><strong>A native Windows workspace for observable, controllable AI agents.</strong></p>
-      <p>Brings chat, multi-step tool execution, workspace review, MCP, provider debugging, artifacts, checkpoints, permissions, and durable run history into one local-first desktop product.</p>
+      <p><strong>Native Windows workspace for observable, controllable AI agents.</strong></p>
+      <p>Chat, multi-step tools, workspace review, MCP, artifacts, checkpoints, permissions, provider diagnostics, and local run history in one desktop product.</p>
       <p>
-        <a href="https://github.com/24373054/TLAH-Studio/releases/latest"><img src="https://img.shields.io/github/v/release/24373054/TLAH-Studio?style=flat-square&label=release" alt="Latest release"></a>
+        <a href="https://github.com/24373054/TLAH-Studio/releases/latest"><img src="https://img.shields.io/github/v/release/24373054/TLAH-Studio?style=flat-square&label=release" alt="Release"></a>
         <a href="https://github.com/24373054/TLAH-Studio/releases"><img src="https://img.shields.io/github/downloads/24373054/TLAH-Studio/total?style=flat-square&label=downloads" alt="Downloads"></a>
         <a href="https://github.com/24373054/TLAH-Studio/actions/workflows/ci.yml"><img src="https://github.com/24373054/TLAH-Studio/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI"></a>
       </p>
-      <p><code>.NET 8</code> <code>WinUI 3</code> <code>SQLite</code> <code>MCP</code> <code>ECDSA updates</code></p>
+      <p><code>.NET 8</code> <code>WinUI 3</code> <code>SQLite</code> <code>MCP</code> <code>signed updates</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/24373054/00SWIFT">00SWIFT</a></h3>
-      <p><strong>A standards-driven SWIFT, CIPS, e-CNY, and multi-CBDC payment research platform.</strong></p>
-      <p>Explores authenticated payment APIs, versioned ISO 20022 profiles, durable payment lifecycles, double-entry digital-currency ledgers, RTGS/DNS settlement, and atomic cross-border PvP.</p>
+      <p><strong>Standards-driven payment and digital-currency research platform.</strong></p>
+      <p>Versioned ISO 20022 profiles, authenticated payment APIs, durable lifecycles, CIPS research, double-entry e-CNY ledgers, RTGS/DNS, and multi-CBDC settlement.</p>
       <p>
-        <a href="https://github.com/24373054/00SWIFT/releases"><img src="https://img.shields.io/github/v/release/24373054/00SWIFT?style=flat-square&label=release" alt="Latest release"></a>
+        <a href="https://github.com/24373054/00SWIFT/releases"><img src="https://img.shields.io/github/v/release/24373054/00SWIFT?style=flat-square&label=release" alt="Release"></a>
         <a href="https://github.com/24373054/00SWIFT/actions/workflows/ci.yml"><img src="https://github.com/24373054/00SWIFT/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
         <a href="https://github.com/24373054/00SWIFT/actions/workflows/codeql.yml"><img src="https://github.com/24373054/00SWIFT/actions/workflows/codeql.yml/badge.svg" alt="CodeQL"></a>
       </p>
@@ -67,42 +66,68 @@
   </tr>
 </table>
 
-## Selected project atlas
-
-| System | Domain | What it explores | Stage |
-|---|---|---|---|
-| **[ChainTrace](https://github.com/24373054/ChainTrace) / [REALTrace](https://github.com/24373054/REALTrace)** | Digital-asset intelligence | Multi-chain transaction tracing, fund-flow graphs, entity/risk visualization, and AI-assisted investigation interfaces | Research prototype |
-| **[MatrixLabs Wallet](https://github.com/24373054/MatrixLabsWallet)** | Wallet security | EVM browser wallet with local key protection, multi-chain operations, DeFi surfaces, and transaction-risk UX | Product prototype |
-| **[瀛州纪 · Immortal Ledger](https://github.com/24373054/Web3-games)** | Web3 × AI | A fully on-chain narrative world with digital-being NFTs, an immutable world ledger, and state-aware AI NPCs | Experimental game |
-| **[GitSentinel Mailer](https://github.com/24373054/GitSentinel-Mailer)** | Developer tooling | Repository-change monitoring with configurable polling, persistent project state, and themed email notifications | Open-source tool |
-| **[LLM Chat Server](https://github.com/24373054/llm-server)** | AI infrastructure | Local Qwen inference through vLLM, streaming chat APIs, GPU deployment, and lightweight multi-user access | Infrastructure prototype |
-| **[Matrix Lab Web](https://github.com/24373054/matrixlab)** | Research communication | Research, publication, laboratory, and technology-transfer web presence | Production website |
-
-## Current research and product questions
-
-- How should an agent expose **intent, actions, permissions, uncertainty, and replayable evidence** instead of hiding execution behind a chat interface?
-- Can digital-asset risk move from post-event reporting to **pre-execution gating** without turning probabilistic evidence into false certainty?
-- How can heterogeneous payment systems preserve **message semantics, ledger invariants, operational recoverability, and regulatory boundaries** across institutions?
-- What belongs on-chain, what belongs locally, and what must remain behind an explicit human or institutional trust boundary?
-
-## Engineering profile
-
-**Languages** · `C#` `Python` `TypeScript` `JavaScript` `Solidity` `SQL` `C/C++`  
-**Application systems** · `.NET 8` `WinUI 3` `React` `Next.js` `FastAPI` `Node.js`  
-**Data & infrastructure** · `SQLite` `PostgreSQL` `Redis` `Docker` `GitHub Actions` `Nginx` `vLLM`  
-**Web3 & payments** · `Ethereum / EVM` `ethers.js` `Hardhat` `ISO 20022` `RTGS / DNS` `double-entry ledgers`  
-**Agent engineering** · `tool orchestration` `MCP` `workspace isolation` `approval systems` `memory` `observability`
-
-## How I build
+## Repository signals
 
 <table>
   <tr>
-    <td width="25%" align="center"><strong>Local-first</strong><br><sub>Keep data and control close to the user whenever the system permits it.</sub></td>
-    <td width="25%" align="center"><strong>Observable</strong><br><sub>Execution should leave a readable trail of decisions, tools, artifacts, and failures.</sub></td>
-    <td width="25%" align="center"><strong>Boundary-aware</strong><br><sub>Security claims must state exactly what is protected, bypassed, trusted, or simulated.</sub></td>
-    <td width="25%" align="center"><strong>Reproducible</strong><br><sub>Standards, tests, migrations, release artifacts, and research assumptions should be auditable.</sub></td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=24373054&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=8aa4c5">
+        <img src="https://github-readme-stats.vercel.app/api?username=24373054&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=9b2c20" alt="GitHub statistics">
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=24373054&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24373054&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e" alt="Language distribution">
+      </picture>
+    </td>
   </tr>
 </table>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=24373054&bg_color=00000000&color=8b949e&line=8aa4c5&point=e6edf3&area=true&area_color=24364a&hide_border=true&custom_title=Contribution%20rhythm">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=24373054&bg_color=00000000&color=59636e&line=9b2c20&point=1f2328&area=true&area_color=eadbd3&hide_border=true&custom_title=Contribution%20rhythm" alt="Contribution activity graph">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/24373054/TLAH-Studio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=24373054&repo=TLAH-Studio&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=8aa4c5">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=24373054&repo=TLAH-Studio&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=9b2c20" alt="TLAH Studio repository card">
+    </picture>
+  </a>
+  <a href="https://github.com/24373054/00SWIFT">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=24373054&repo=00SWIFT&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=8aa4c5">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=24373054&repo=00SWIFT&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=9b2c20" alt="00SWIFT repository card">
+    </picture>
+  </a>
+</p>
+
+## Repository map
+
+| Direction | Public systems | Role |
+|---|---|---|
+| **Agent runtimes** | [TLAH Studio](https://github.com/24373054/TLAH-Studio), [TLAH](https://github.com/24373054/TLAH), [Matrix-Agent](https://github.com/24373054/Matrix-Agent), [llm-server](https://github.com/24373054/llm-server) | Desktop agents, prompt/runtime research, tool orchestration, and local model serving |
+| **Digital-asset intelligence** | [ChainTrace](https://github.com/24373054/ChainTrace), [REALTrace](https://github.com/24373054/REALTrace), [StableGuard](https://github.com/24373054/StableGuard) | Fund-flow graphs, investigation surfaces, risk evidence, and agent-assisted security |
+| **Wallets and protocols** | [MatrixLabsWallet](https://github.com/24373054/MatrixLabsWallet), [00SWIFT](https://github.com/24373054/00SWIFT) | User-side transaction security and standards-driven payment infrastructure |
+| **On-chain worlds** | [瀛州纪 · Immortal Ledger](https://github.com/24373054/Web3-games), [OpenImmortal](https://github.com/24373054/OpenImmortal) | Smart-contract worlds, digital beings, and AI-mediated narrative systems |
+| **Developer tools** | [GitSentinel-Mailer](https://github.com/24373054/GitSentinel-Mailer), [SecureChat](https://github.com/24373054/SecureChat), [QRCodeGenerator](https://github.com/24373054/QRCodeGenerator) | Monitoring, encrypted communication, and focused utility software |
+| **Research communication** | [Matrix Lab Web](https://github.com/24373054/matrixlab), [Portfolio](https://github.com/24373054/24373054.github.io) | Research, publications, project narratives, and public documentation |
+
+## Questions I keep returning to
+
+- How can an agent expose intent, actions, permissions, uncertainty, and replayable evidence without becoming unusably complex?
+- Can digital-asset security move from post-event reporting to pre-execution gating without presenting probabilistic evidence as certainty?
+- How should heterogeneous payment systems preserve message semantics, ledger invariants, failure recovery, and institutional boundaries?
+- What belongs on-chain, what belongs locally, and what must remain explicitly human-governed?
+
+## Working vocabulary
+
+`C#` · `Python` · `TypeScript` · `Solidity` · `.NET 8` · `WinUI 3` · `React` · `FastAPI` · `PostgreSQL` · `SQLite` · `Docker` · `GitHub Actions` · `vLLM` · `Ethereum / EVM` · `ISO 20022` · `MCP` · `tool safety` · `graph intelligence` · `double-entry ledgers`
 
 <details>
 <summary><strong>中文简介</strong></summary>
@@ -116,12 +141,12 @@
 2. **数字资产安全与链上分析**：关注执行前风险门控、跨链资金图谱、KYT/KYA、钱包安全与可解释证据；
 3. **跨境支付与数字货币基础设施**：研究 ISO 20022、CIPS、数字人民币、多 CBDC、清算结算及账本不变量。
 
-我更在意系统是否能清楚说明：**它做了什么、为什么这样做、依据是什么，以及信任边界在哪里。**
+我更在意一个系统能否清楚说明：**它做了什么、为什么这样做、依据是什么，以及信任边界在哪里。**
 
 </details>
 
 ---
 
 <p align="center">
-  <sub>Build agents that expose their actions, ledgers that preserve invariants, and security systems that make risk visible before execution.</sub>
+  <sub>Systems by design · Trust by construction · Verifiable where it matters</sub>
 </p>
